@@ -1,0 +1,18 @@
+node_modules
+.env
+typechain
+typechain-types
+deployments
+# test coverage results
+coverage
+coverage.json
+
+# Hardhat files
+cache
+artifacts
+
+# Gas reporter
+gas-report.txt
+
+.vscode
+
